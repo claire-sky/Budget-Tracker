@@ -46,7 +46,7 @@
     ],
     "theme_color": "#dddddd",
     "background_color": "#0078d4",
-    "start_url": ".",
+    "start_url": "index.html",
     "display": "standalone",
     "description": "An app that allows you to manage your budget on the go.",
     "orientation": "portrait"
